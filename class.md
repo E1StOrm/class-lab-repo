@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Denys Korobov  
+- Certification: Version Control  
 
 ## Instructions
 Please replace the placeholders with your details:
